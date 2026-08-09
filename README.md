@@ -1,4 +1,6 @@
 # lil-demo
-This is my first git repository. 
+Project Title: Amazon Clone
+<br>
+Description: This is a simple homepage of Amazon.
 <br>
 Coder - Rida Faitma
